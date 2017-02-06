@@ -27,3 +27,6 @@ Fast, efficient compressor for small data sets leveraging pre trained dictionari
 
 [shoco](http://ed-von-schleck.github.io/shoco/#home)
 A fast acii biased, entropy encoder, for short strings using trained bigrams. Trained on english by default, supports training custom models.
+
+[smaz](https://github.com/antirez/smaz)
+Dictionary based compressor for very small strings (less than 100 bytes). By default uses english dictionary but can be customized via code.
