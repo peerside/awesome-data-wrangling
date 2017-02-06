@@ -20,3 +20,7 @@ A lightweight and flexible command-line JSON processor
 
 [XSV CSV Toolkit](https://github.com/BurntSushi/xsv)
 Fast, command line toolkit for CSV manipulation and analysis. Written in RUST
+
+### Compression Tools
+[zstandard](http://facebook.github.io/zstd) 
+Fast, efficient compressor for small data sets leveraging pre trained dictionaries.
