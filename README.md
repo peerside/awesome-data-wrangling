@@ -26,4 +26,4 @@ Fast, command line toolkit for CSV manipulation and analysis. Written in RUST
 Fast, efficient compressor for small data sets leveraging pre trained dictionaries.
 
 [shoco](http://ed-von-schleck.github.io/shoco/#home)
-A fast entropy encoder for short strings using trained bigrams. Trained on english by default, supports training custom models.
+A fast acii biased, entropy encoder, for short strings using trained bigrams. Trained on english by default, supports training custom models.
