@@ -23,7 +23,7 @@ Fast, command line toolkit for CSV manipulation and analysis. Written in RUST
 
 ### Compression Tools
 [zstandard](http://facebook.github.io/zstd) 
-Fast, efficient compressor for small data sets leveraging pre trained dictionaries.
+Fast, efficient compressor for small data sets (less than 100MB) leveraging pre trained dictionaries.
 
 [shoco](http://ed-von-schleck.github.io/shoco/#home)
 A fast acii biased, entropy encoder, for short strings using trained bigrams. Trained on english by default, supports training custom models.
