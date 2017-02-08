@@ -1,3 +1,5 @@
+A curated list of data wrangling resources with a bias towards pragmatic tools.
+
 ### Excel to CSV conversion
 
 [xlsx2csv](https://github.com/dilshod/xlsx2csv)
@@ -21,7 +23,6 @@ A lightweight and flexible command-line JSON processor
 Command line tools to transform, query, validate, and edit XML documents
 
 ### CSV Processing
-
 [XSV CSV Toolkit](https://github.com/BurntSushi/xsv)
 Fast, command line toolkit for CSV manipulation and analysis. Written in RUST
 
