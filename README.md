@@ -30,3 +30,13 @@ A fast acii biased, entropy encoder, for short strings using trained bigrams. Tr
 
 [smaz](https://github.com/antirez/smaz)
 Dictionary based compressor for very small strings (less than 100 bytes). By default uses english dictionary but can be customized via code.
+
+### Data Exploration and Sharing
+[Redash](https://github.com/getredash/redash)
+Connect to any data source, easily visualize and share your data via dashboard. Open source and self hostable.
+
+[Superset](https://github.com/airbnb/superset)
+Data exploration platform designed to be visual, intuitive, and interactive. From Airbnb, python based, supports druid alo with other SQL sources.
+
+[Metabase](https://github.com/metabase/metabase)
+Visual analytics and dashboards from a wide range of SQL sources. Java based, SQL and non SQL modes, easy to share.
