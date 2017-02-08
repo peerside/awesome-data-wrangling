@@ -12,7 +12,7 @@ Java APIs for manipulating various file formats based upon the Office Open XML s
 [Excel Streaming Reader](https://github.com/monitorjbl/excel-streaming-reader#implementation-details)
 Java streaming Excel reader using Apache POI - use for reading in large files without exhausting memory
 
-### JSON
+### JSON Processing
 [jq](https://stedolan.github.io/jq/)
 A lightweight and flexible command-line JSON processor
 
