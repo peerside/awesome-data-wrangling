@@ -16,6 +16,10 @@ Java streaming Excel reader using Apache POI - use for reading in large files wi
 [jq](https://stedolan.github.io/jq/)
 A lightweight and flexible command-line JSON processor
 
+### XML Processing
+[xmlstarlet](http://xmlstar.sourceforge.net/docs.php)
+Command line tools to transform, query, validate, and edit XML documents
+
 ### CSV Processing
 
 [XSV CSV Toolkit](https://github.com/BurntSushi/xsv)
