@@ -53,3 +53,8 @@ Libpostal is an open source project designed to provide fast, global address exp
 [pelias.io](http://pelias.io/)
 A modular, open-source geocoder built on top of ElasticSearch for fast geocoding. Works with OpenStreetMap, OpenAddresses, Geonames, and Who's on First and can leverage libpostal for address parsing and expansion.
 
+
+### Datasets
+[Global Chain Store Names List](https://github.com/openvenues/chain_stores)
+131k chain store names from OpenVenues
+
