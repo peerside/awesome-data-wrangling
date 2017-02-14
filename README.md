@@ -44,4 +44,12 @@ Connect to any data source, easily visualize and share your data via dashboard. 
 Data exploration platform designed to be visual, intuitive, and interactive. From Airbnb, python based, supports druid alo with other SQL sources.
 
 [Metabase](https://github.com/metabase/metabase)
-Visual analytics and dashboards from a wide range of SQL sources. Java based, SQL and non SQL modes, easy to share.
+Visual analytics and dashboards from a wide range of SQL sources. Java based, SQL and non SQL modes, easy to share. 
+
+### Postal Address Processing
+[libpostal](https://github.com/openvenues/libpostal)
+Libpostal is an open source project designed to provide fast, global address expansion and parsing using natural language processing techniques. Unlike several open source address parsing systems which rely explicit patterns and complex regular expressions, libpostal relies on a trained model derived from a corpus of global place names, national address patterns, and different languages terminology. It was created by Al Barrentine, initially for the Mapzen OpenVenues project. See [intro post](https://medium.com/@albarrentine/statistical-nlp-on-openstreetmap-b9d573e6cc86) for details.
+
+[pelias.io](http://pelias.io/)
+A modular, open-source geocoder built on top of ElasticSearch for fast geocoding. Works with OpenStreetMap, OpenAddresses, Geonames, and Who's on First and can leverage libpostal for address parsing and expansion.
+
