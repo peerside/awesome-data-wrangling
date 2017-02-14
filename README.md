@@ -58,3 +58,23 @@ A modular, open-source geocoder built on top of ElasticSearch for fast geocoding
 [Global Chain Store Names List](https://github.com/openvenues/chain_stores)
 131k chain store names from OpenVenues
 
+### Test Data Generation
+Generate fake data for testing and demos
+
+[phoney](https://github.com/yields/phony)
+Command line program that accepts a template and outputs fake data. golang based.
+
+[faker.js](https://github.com/Marak/faker.js) and [faker cli](https://github.com/lestoni/faker-cli)
+Generate fake data from a browser, cli or REST call. Node.js based and includes avatars. See [demo](https://cdn.rawgit.com/Marak/faker.js/master/examples/browser/index.html)
+
+[faker](http://faker.readthedocs.io/en/master/)
+Python based module and command line tool for generating fake data
+
+[elizabeth](https://github.com/lk-geimfari/elizabeth)
+Python module for generating fake data profiles. Claims to be faster than alternatives, simpler and more self contained.
+
+[mockeroo](http://www.mockaroo.com/)
+Web app for generating realistic test data. Free up to 1000 records.
+
+[generatedata.com](http://www.generatedata.com/)
+Web app for generating test data. Generate up to 100 for free, 5000 for $20 or download from [http://benkeen.github.io/generatedata/](http://benkeen.github.io/generatedata/)
