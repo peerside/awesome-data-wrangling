@@ -78,3 +78,6 @@ Web app for generating realistic test data. Free up to 1000 records.
 
 [generatedata.com](http://www.generatedata.com/)
 Web app for generating test data. Generate up to 100 for free, 5000 for $20 or download from [http://benkeen.github.io/generatedata/](http://benkeen.github.io/generatedata/)
+
+[dsgen-big](https://github.com/yipeng/dsgen-big)
+Dataset generator for producing dirty data with duplicates, typos etc. Based on the origional Febrl dbgen code.
