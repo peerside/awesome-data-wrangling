@@ -1,4 +1,4 @@
-A curated list of data wrangling resources with a bias towards pragmatic tools.
+A curated list of data wrangling resources with a bias towards command line tools without steep learning curves.
 
 
 ## Excel to CSV conversion
