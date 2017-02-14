@@ -1,5 +1,6 @@
 A curated list of data wrangling resources with a bias towards pragmatic tools.
 
+
 ### Excel to CSV conversion
 
 [xlsx2csv](https://github.com/dilshod/xlsx2csv)
@@ -14,17 +15,24 @@ Java APIs for manipulating various file formats based upon the Office Open XML s
 [Excel Streaming Reader](https://github.com/monitorjbl/excel-streaming-reader#implementation-details)
 Java streaming Excel reader using Apache POI - use for reading in large files without exhausting memory
 
+### Data Search/Filtering
+[ripgrep](https://github.com/BurntSushi/ripgrep)
+Extremely fast grep alternative.
+
 ### JSON Processing
 [jq](https://stedolan.github.io/jq/)
 A lightweight and flexible command-line JSON processor
+
 
 ### XML Processing
 [xmlstarlet](http://xmlstar.sourceforge.net/docs.php)
 Command line tools to transform, query, validate, and edit XML documents
 
+
 ### CSV Processing
 [XSV CSV Toolkit](https://github.com/BurntSushi/xsv)
 Fast, command line toolkit for CSV manipulation and analysis. Written in RUST
+
 
 ### Compression Tools
 [zstandard](http://facebook.github.io/zstd) 
@@ -36,6 +44,7 @@ A fast acii biased, entropy encoder, for short strings using trained bigrams. Tr
 [smaz](https://github.com/antirez/smaz)
 Dictionary based compressor for very small strings (less than 100 bytes). By default uses english dictionary but can be customized via code.
 
+
 ### Data Exploration and Sharing
 [Redash](https://github.com/getredash/redash)
 Connect to any data source, easily visualize and share your data via dashboard. Open source and self hostable.
@@ -45,6 +54,7 @@ Data exploration platform designed to be visual, intuitive, and interactive. Fro
 
 [Metabase](https://github.com/metabase/metabase)
 Visual analytics and dashboards from a wide range of SQL sources. Java based, SQL and non SQL modes, easy to share. 
+
 
 ### Postal Address Processing
 [libpostal](https://github.com/openvenues/libpostal)
@@ -57,6 +67,7 @@ A modular, open-source geocoder built on top of ElasticSearch for fast geocoding
 ### Datasets
 [Global Chain Store Names List](https://github.com/openvenues/chain_stores)
 131k chain store names from OpenVenues
+
 
 ### Test Data Generation
 Generate fake data for testing and demos
