@@ -97,11 +97,11 @@ Dataset generator for producing dirty data with duplicates, typos etc. Based on 
 ## Compression Tools
 Use parallel versions of gzip, bzip etc. where possible. Use difference in compression throughput, especially on modern servers.
 
-[lbzip2](http://lbzip2.org/) – parallel bzip2 compression utility
+[lbzip2](http://lbzip2.org/) Parallel bzip2 compression utility
 
-[pigz](https://github.com/madler/pigz) - A parallel implementation of gzip for modern multi-processor, multi-core machines.
+[pigz](https://github.com/madler/pigz) A parallel implementation of gzip for modern multi-processor, multi-core machines.
 
-[xz](http://tukaani.org/xz/) - general-purpose data compression software with a high compression ratio and parallel support.
+[xz](http://tukaani.org/xz/) General-purpose data compression software with a high compression ratio and parallel support.
 
 
 
