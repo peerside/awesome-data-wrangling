@@ -94,8 +94,9 @@ Web app for generating test data. Generate up to 100 for free, 5000 for $20 or d
 Dataset generator for producing dirty data with duplicates, typos etc. Based on the origional Febrl dbgen code.
 
 
-### Compression Tools
+## Compression Tools
 Use parallel versions of gzip, bzip etc. where possible. Use difference in compression throughput, especially on modern servers.
+
 [lbzip2](http://lbzip2.org/) – parallel bzip2 compression utility
 
 [pigz](https://github.com/madler/pigz) - A parallel implementation of gzip for modern multi-processor, multi-core machines.
