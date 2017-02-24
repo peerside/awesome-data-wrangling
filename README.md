@@ -49,11 +49,12 @@ Dictionary based compressor for very small strings (less than 100 bytes). By def
 [Redash](https://github.com/getredash/redash)
 Connect to any data source, easily visualize and share your data via dashboard. Open source and self hostable.
 
-[Superset](https://github.com/airbnb/superset)
+[Superset](https://github.com/airbnb/superset) - previously known as caravel
 Data exploration platform designed to be visual, intuitive, and interactive. From Airbnb, python based, supports druid alo with other SQL sources.
 
 [Metabase](https://github.com/metabase/metabase)
 Visual analytics and dashboards from a wide range of SQL sources. Java based, SQL and non SQL modes, easy to share. 
+
 
 
 ## Postal Address Processing
