@@ -44,6 +44,9 @@ A fast acii biased, entropy encoder, for short strings using trained bigrams. Tr
 [smaz](https://github.com/antirez/smaz)
 Dictionary based compressor for very small strings (less than 100 bytes). By default uses english dictionary but can be customized via code.
 
+## PDF Processing
+[pdftabextract](https://github.com/WZBSocialScienceCenter/pdftabextract)
+A set of tools for extracting tables from PDF files helping to do data mining on (OCR-processed) scanned documents. For an overview see the [blog here](https://datascience.blog.wzb.eu/2017/02/16/data-mining-ocr-pdfs-using-pdftabextract-to-liberate-tabular-data-from-scanned-documents/) 
 
 ## Data Exploration and Sharing
 [Redash](https://github.com/getredash/redash)
