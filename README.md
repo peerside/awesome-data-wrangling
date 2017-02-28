@@ -59,6 +59,9 @@ Data exploration platform designed to be visual, intuitive, and interactive. Fro
 Visual analytics and dashboards from a wide range of SQL sources. Java based, SQL and non SQL modes, easy to share. 
 
 
+## General Purpose
+[miller](https://github.com/johnkerl/miller)
+Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 
 ## Postal Address Processing
 [libpostal](https://github.com/openvenues/libpostal)
