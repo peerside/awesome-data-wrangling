@@ -114,4 +114,7 @@ Use parallel versions of gzip, bzip etc. where possible. Use difference in compr
 [xz](http://tukaani.org/xz/) General-purpose data compression software with a high compression ratio and parallel support.
 
 
+### Fuzzy Matching
+
+[talisman](http://yomguithereal.github.io/talisman/) Javascript NLP library that includes a large selection of [phonetic fingerprints](http://yomguithereal.github.io/talisman/phonetics/), [fuzzy matching keys](http://yomguithereal.github.io/talisman/phonetics/) and [distance metrics](http://yomguithereal.github.io/talisman/metrics/distance)
 
