@@ -118,3 +118,6 @@ Use parallel versions of gzip, bzip etc. where possible. Use difference in compr
 
 [talisman](http://yomguithereal.github.io/talisman/) Javascript NLP library that includes a large selection of [phonetic fingerprints](http://yomguithereal.github.io/talisman/phonetics/), [fuzzy matching keys](http://yomguithereal.github.io/talisman/phonetics/) and [distance metrics](http://yomguithereal.github.io/talisman/metrics/distance)
 
+### Data Prep Tools
+
+[visidata](https://visidata.readthedocs.io/en/stable/home.html) A curses interface for exploring and arranging tabular data. 
