@@ -103,6 +103,11 @@ Web app for generating test data. Generate up to 100 for free, 5000 for $20 or d
 [dsgen-big](https://github.com/yipeng/dsgen-big)
 Dataset generator for producing dirty data with duplicates, typos etc. Based on the origional Febrl dbgen code.
 
+[ranger](https://github.com/smartcat-labs/ranger)
+An open source fake data generator.
+
+[kolpa](https://github.com/malisit/kolpa)
+An open source fake data generator in go
 
 ## Compression Tools
 Use parallel versions of gzip, bzip etc. where possible. Use difference in compression throughput, especially on modern servers.
