@@ -130,7 +130,9 @@ Use parallel versions of gzip, bzip etc. where possible. Use difference in compr
 
 ### Process Orchestration
 [conductor](https://netflix.github.io/conductor/) Conductor is an orchestration engine from Netflix. Workflows are defined using a JSON based DSL and are either control tasks (fork, conditional etc) or application tasks (e.g. encode a file) that are executed on a remote machine. Process tasks are executed by remote (any language) workers that poll the workflow state. Java core but workers are just http clients.
+
 [camunda](https://camunda.com/) An open source Business Process and Decision Automation platform with support for BPMN and modelling. Process tasks are executed by task clients that are executed by the process engine. Java focused.
+
 [apache airflow](https://airflow.apache.org/) Airflow is a platform to programmatically author, schedule and monitor workflows. Workflows are directed acyclic graphs (DAGs) of tasks that are executed, by the airflow scheduler, on an array of workers while following the specified dependencies. Python focused.
 
 
