@@ -36,9 +36,9 @@ Command line tools to transform, query, validate, and edit XML documents
 [XSV CSV Toolkit](https://github.com/BurntSushi/xsv)
 Fast, command line toolkit for CSV manipulation and analysis. Written in RUST
 
-[awesomecsv](https://github.com/secretGeek/awesomecsv A curated list of resoures for dealing CSV data.
+[awesomecsv](https://github.com/secretGeek/awesomecsv) A curated list of resoures for dealing CSV data.
 
-[awesome-csv](https://github.com/csvspecs/awesome-csv A collection about the comma-separated values (CSV) world for rich structured data in (plain) text
+[awesome-csv](https://github.com/csvspecs/awesome-csv) A collection about the comma-separated values (CSV) world for rich structured data in (plain) text
 
 
 ## Compression Tools
